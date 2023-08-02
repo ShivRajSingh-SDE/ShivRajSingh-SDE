@@ -1,4 +1,4 @@
-![MasterHead] (https://github.com/shivamkumarsha/Shiv/blob/main/IMG_20230714_164851.jpg)(https://rishavchanda.io)
+![MasterHead](https://github.com/shivamkumarsha/Shiv/blob/main/IMG_20230714_164851.jpg)(https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Shiv</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
