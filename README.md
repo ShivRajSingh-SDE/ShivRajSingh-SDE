@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/@gamer20042004" target="blank"><img src="https://img.shields.io/twitter/follow/@gamer20042004?logo=twitter&style=for-the-badge" alt="@gamer20042004" /></a> </p>
 
-- 🔭 I’m currently working on [My Portfolio](https://shivioweb.netlify.app/)
+- 🔭 I’m currently working on [My Portfolio](https://shivwebio.netlify.app/)
 
 - 🌱 I’m currently learning **MERN**
 
