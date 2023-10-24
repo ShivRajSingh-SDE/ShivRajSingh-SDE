@@ -9,7 +9,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=shivrajsingh-sde&theme=blue-gree&show_icons=true" align="left" width="49%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivrajsingh-sde&layout=compact" align="left" width="47%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivrajsingh-sde&layout=compact" align="left" width="42%"/>
 
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rasif-Taghizada&" />
